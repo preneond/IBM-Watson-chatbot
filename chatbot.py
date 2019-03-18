@@ -19,15 +19,15 @@ class Chatbot:
         super().__init__()
         self.name = name
         self.discovery = DiscoveryV1(version='2018-08-01',
-                                     url='https://gateway-lon.watsonplatform.net/discovery/api',
-                                     iam_apikey='KLkks4BvGImKK4SMQb506cVQynowmslRPbdPaLrvBnZz')
-        self.discovery_env_id = '669ba44b-676c-441a-8a79-1ef762058364'
-        self.discovery_col_id = 'fa2dc67c-4210-4b58-b9f6-788c5961b878'
-        self.assistant_id = '395b5b14-90df-4024-bbef-4e39c4cfea48'
+                                     url='insert-watson-url',
+                                     iam_apikey='insert-api-key')
+        self.discovery_env_id = 'insert-env-id'
+        self.discovery_col_id = 'insert-col-id'
+        self.assistant_id = 'insert-assistant-id'
         self.assistant = AssistantV2(
-            iam_apikey='GnsxjCPS9pioN1HdbAjyiLNsNmFFDtSSCaOzoNNZIlIv',
+            iam_apikey='insert-api-key',
             version='2018-11-08',
-            url='https://gateway-lon.watsonplatform.net/assistant/api'
+            url='insert-url'
         )
 
         self.assistant_session_id = self.assistant.create_session(
