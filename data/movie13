@@ -1,0 +1,20 @@
+{
+          "vote_count": 131,
+          "id": 503616,
+          "video": false,
+          "vote_average": 6.1,
+          "title": "Second Act",
+          "popularity": 81.984,
+          "poster_path": "/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg",
+          "original_language": "en",
+          "original_title": "Second Act",
+          "genres": [
+              "Romance",
+              "Comedy",
+              "Drama"
+          ],
+          "backdrop_path": "/osmnZ2rYpBK0cOK9Vjdf4jyIZWK.jpg",
+          "adult": false,
+          "overview": "Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. Until that is, she gets the chance to prove to Madison Avenue that street smarts are as valuable as book smarts, and that it is never too late for a second act.",
+          "release_date": "2018-11-22"
+      }

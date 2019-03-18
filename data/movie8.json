@@ -1,0 +1,21 @@
+{
+          "vote_count": 81,
+          "id": 452832,
+          "video": false,
+          "vote_average": 4.8,
+          "title": "Serenity",
+          "popularity": 133.78,
+          "poster_path": "/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+          "original_language": "en",
+          "original_title": "Serenity",
+          "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+          ],
+          "backdrop_path": "/oOROXoQ402tHgK6NowmMUSLffkW.jpg",
+          "adult": false,
+          "overview": "Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.",
+          "release_date": "2019-01-24"
+      }

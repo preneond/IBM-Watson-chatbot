@@ -1,0 +1,18 @@
+{
+          "vote_count": 1438,
+          "id": 480530,
+          "video": false,
+          "vote_average": 6.6,
+          "title": "Creed II",
+          "popularity": 147.472,
+          "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+          "original_language": "en",
+          "original_title": "Creed II",
+          "genres": [
+              "Drama"
+          ],
+          "backdrop_path": "/8yqLPNwNCtpOPc3XkOlkSMnghzw.jpg",
+          "adult": false,
+          "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+          "release_date": "2018-11-21"
+      }

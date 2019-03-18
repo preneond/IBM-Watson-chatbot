@@ -1,0 +1,20 @@
+{
+          "vote_count": 1282,
+          "id": 375262,
+          "video": false,
+          "vote_average": 7.7,
+          "title": "The Favourite",
+          "popularity": 134.707,
+          "poster_path": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+          "original_language": "en",
+          "original_title": "The Favourite",
+          "genres": [
+              "Drama",
+              "History",
+              "Comedy"
+          ],
+          "backdrop_path": "/ekWMoBZ4B9rM60INZEh5FAD2HFR.jpg",
+          "adult": false,
+          "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+          "release_date": "2018-11-23"
+      }

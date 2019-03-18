@@ -1,0 +1,24 @@
+{
+          "vote_count": 196,
+          "id": 280217,
+          "video": false,
+          "vote_average": 6.9,
+          "title": "The Lego Movie 2: The Second Part",
+          "popularity": 58.349,
+          "poster_path": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+          "original_language": "en",
+          "original_title": "The Lego Movie 2: The Second Part",
+          "genres": [
+              "Action",
+              "Adventure",
+              "Animation",
+              "Comedy",
+              "Family",
+              "Science Fiction",
+              "Fantasy"
+          ],
+          "backdrop_path": "/8kPozGb4BDrcWBSsGPrkULG2tP9.jpg",
+          "adult": false,
+          "overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.",
+          "release_date": "2019-01-26"
+      }

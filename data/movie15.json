@@ -1,0 +1,20 @@
+{
+          "vote_count": 280,
+          "id": 522681,
+          "video": false,
+          "vote_average": 6.1,
+          "title": "Escape Room",
+          "popularity": 76.523,
+          "poster_path": "/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg",
+          "original_language": "en",
+          "original_title": "Escape Room",
+          "genres": [
+              "Horror",
+              "Thriller",
+              "Action"
+          ],
+          "backdrop_path": "/mWLljCmpqlcYQh7uh51BBMwCZwN.jpg",
+          "adult": false,
+          "overview": "Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.",
+          "release_date": "2019-01-03"
+      }

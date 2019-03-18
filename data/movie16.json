@@ -1,0 +1,21 @@
+{
+          "vote_count": 106,
+          "id": 505954,
+          "video": false,
+          "vote_average": 4.7,
+          "title": "T-34",
+          "popularity": 76.163,
+          "poster_path": "/wNJF8R5QE6nBT7DQoKk8t6YD1MM.jpg",
+          "original_language": "ru",
+          "original_title": "T-34",
+          "genres": [
+            "War",
+              "Drama",
+              "Adventure",
+              "Action"
+          ],
+          "backdrop_path": "/59qyrVGLLtrcuFtJGdixzn7H4OI.jpg",
+          "adult": false,
+          "overview": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+          "release_date": "2018-12-27"
+      }

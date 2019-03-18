@@ -1,0 +1,410 @@
+{
+  "movies": [
+      {
+          "vote_count": 974,
+          "id": 399579,
+          "video": false,
+          "vote_average": 6.8,
+          "title": "Alita: Battle Angel",
+          "popularity": 376.418,
+          "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+          "original_language": "en",
+          "original_title": "Alita: Battle Angel",
+          "genres": [
+              "Action",
+              "Science Fiction",
+              "Thriller"
+          ],
+          "backdrop_path": "/aQXTw3wIWuFMy0beXRiZ1xVKtcf.jpg",
+          "adult": false,
+          "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+          "release_date": "2019-01-31"
+      },
+      {
+          "vote_count": 1630,
+          "id": 490132,
+          "video": false,
+          "vote_average": 8.4,
+          "title": "Green Book",
+          "popularity": 262.855,
+          "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+          "original_language": "en",
+          "original_title": "Green Book",
+          "genres": [
+              "Drama",
+              "Comedy",
+              10402
+          ],
+          "backdrop_path": "/78PjwaykLY2QqhMfWRDvmfbC6EV.jpg",
+          "adult": false,
+          "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+          "release_date": "2018-11-16"
+      },
+      {
+          "vote_count": 1558,
+          "id": 450465,
+          "video": false,
+          "vote_average": 6.7,
+          "title": "Glass",
+          "popularity": 191.492,
+          "poster_path": "/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+          "original_language": "en",
+          "original_title": "Glass",
+          "genres": [
+              "Thriller",
+              "Mystery",
+              "Drama",
+              "Fantasy"
+          ],
+          "backdrop_path": "/lvjscO8wmpEbIfOEZi92Je8Ktlg.jpg",
+          "adult": false,
+          "overview": "In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+          "release_date": "2019-01-16"
+      },
+      {
+          "vote_count": 767,
+          "id": 166428,
+          "video": false,
+          "vote_average": 8,
+          "title": "How to Train Your Dragon: The Hidden World",
+          "popularity": 182.659,
+          "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+          "original_language": "en",
+          "original_title": "How to Train Your Dragon: The Hidden World",
+          "genres": [
+              "Animation",
+              "Family",
+              "Adventure"
+          ],
+          "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+          "adult": false,
+          "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+          "release_date": "2019-01-03"
+      },
+      {
+          "vote_count": 1548,
+          "id": 404368,
+          "video": false,
+          "vote_average": 7.3,
+          "title": "Ralph Breaks the Internet",
+          "popularity": 149.422,
+          "poster_path": "/ybhsGCKHpzqJDRsfnGmHNUHHrqB.jpg",
+          "original_language": "en",
+          "original_title": "Ralph Breaks the Internet",
+          "genres": [
+              "Family",
+              "Animation",
+              "Comedy",
+              "Fantasy"
+          ],
+          "backdrop_path": "/88poTBTafMXaz73vYi3c74g0y2k.jpg",
+          "adult": false,
+          "overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, \"Sugar Rush.\" In way over their heads, Ralph and Vanellope rely on the citizens of the internet -- the netizens -- to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
+          "release_date": "2018-11-20"
+      },
+      {
+          "vote_count": 1438,
+          "id": 480530,
+          "video": false,
+          "vote_average": 6.6,
+          "title": "Creed II",
+          "popularity": 147.472,
+          "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+          "original_language": "en",
+          "original_title": "Creed II",
+          "genres": [
+              "Drama"
+          ],
+          "backdrop_path": "/8yqLPNwNCtpOPc3XkOlkSMnghzw.jpg",
+          "adult": false,
+          "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+          "release_date": "2018-11-21"
+      },
+      {
+          "vote_count": 1282,
+          "id": 375262,
+          "video": false,
+          "vote_average": 7.7,
+          "title": "The Favourite",
+          "popularity": 134.707,
+          "poster_path": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+          "original_language": "en",
+          "original_title": "The Favourite",
+          "genres": [
+              "Drama",
+              "History",
+              "Comedy"
+          ],
+          "backdrop_path": "/ekWMoBZ4B9rM60INZEh5FAD2HFR.jpg",
+          "adult": false,
+          "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+          "release_date": "2018-11-23"
+      },
+      {
+          "vote_count": 81,
+          "id": 452832,
+          "video": false,
+          "vote_average": 4.8,
+          "title": "Serenity",
+          "popularity": 133.78,
+          "poster_path": "/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+          "original_language": "en",
+          "original_title": "Serenity",
+          "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+          ],
+          "backdrop_path": "/oOROXoQ402tHgK6NowmMUSLffkW.jpg",
+          "adult": false,
+          "overview": "Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.",
+          "release_date": "2019-01-24"
+      },
+      {
+          "vote_count": 196,
+          "id": 512196,
+          "video": false,
+          "vote_average": 6.2,
+          "title": "Happy Death Day 2U",
+          "popularity": 107.678,
+          "poster_path": "/whtt9F8PFqvEgc4fDSHZPkitFk4.jpg",
+          "original_language": "en",
+          "original_title": "Happy Death Day 2U",
+          "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller",
+              "Science Fiction",
+              "Comedy"
+          ],
+          "backdrop_path": "/7trJGwprMUMKhvSx94lmsq6d985.jpg",
+          "adult": false,
+          "overview": "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.",
+          "release_date": "2019-02-13"
+      },
+      {
+          "vote_count": 134,
+          "id": 438650,
+          "video": false,
+          "vote_average": 5.2,
+          "title": "Cold Pursuit",
+          "popularity": 99.992,
+          "poster_path": "/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg",
+          "original_language": "en",
+          "original_title": "Cold Pursuit",
+          "genres": [
+              "Thriller",
+              "Action",
+              "Drama"
+          ],
+          "backdrop_path": "/7Wg6FOEvhduISlxSzSCutAl4lPq.jpg",
+          "adult": false,
+          "overview": "Nels Coxman's quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.",
+          "release_date": "2019-02-07"
+      },
+      {
+          "vote_count": 3850,
+          "id": 297802,
+          "video": false,
+          "vote_average": 6.8,
+          "title": "Aquaman",
+          "popularity": 97.775,
+          "poster_path": "/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+          "original_language": "en",
+          "original_title": "Aquaman",
+          "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+          ],
+          "backdrop_path": "/5A2bMlLfJrAfX9bqAibOL2gCruF.jpg",
+          "adult": false,
+          "overview": "Once home to the most advanced civilization on Earth, the city of Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people -- and then the surface world. Standing in his way is Aquaman, Orm's half-human, half-Atlantean brother and true heir to the throne. With help from royal counselor Vulko, Aquaman must retrieve the legendary Trident of Atlan and embrace his destiny as protector of the deep.",
+          "release_date": "2018-12-07"
+      },
+      {
+          "vote_count": 27,
+          "id": 450001,
+          "video": false,
+          "vote_average": 5.7,
+          "title": "Master Z: Ip Man Legacy",
+          "popularity": 85.732,
+          "poster_path": "/f2PN2ff0VwcVUSgeJUx6pKHwp4r.jpg",
+          "original_language": "cn",
+          "original_title": "葉問外傳：張天志",
+          "genres": [
+              "Action"
+          ],
+          "backdrop_path": "/nv4KsjnhcSIZtuw2mkT9IxoQ5oq.jpg",
+          "adult": false,
+          "overview": "After being defeated by Ip Man, Cheung Tin Chi is attempting to keep a low profile. While going about his business, he gets into a fight with a foreigner by the name of Davidson, who is a big boss behind the bar district. Tin Chi fights hard with Wing Chun and earns respect.",
+          "release_date": "2018-12-20"
+      },
+      {
+          "vote_count": 131,
+          "id": 503616,
+          "video": false,
+          "vote_average": 6.1,
+          "title": "Second Act",
+          "popularity": 81.984,
+          "poster_path": "/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg",
+          "original_language": "en",
+          "original_title": "Second Act",
+          "genres": [
+              "Romance",
+              "Comedy",
+              "Drama"
+          ],
+          "backdrop_path": "/osmnZ2rYpBK0cOK9Vjdf4jyIZWK.jpg",
+          "adult": false,
+          "overview": "Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. Until that is, she gets the chance to prove to Madison Avenue that street smarts are as valuable as book smarts, and that it is never too late for a second act.",
+          "release_date": "2018-11-22"
+      },
+      {
+          "vote_count": 272,
+          "id": 457136,
+          "video": false,
+          "vote_average": 6.6,
+          "title": "Mary Queen of Scots",
+          "popularity": 78.708,
+          "poster_path": "/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+          "original_language": "en",
+          "original_title": "Mary Queen of Scots",
+          "genres": [
+              "Drama",
+              "History"
+          ],
+          "backdrop_path": "/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+          "adult": false,
+          "overview": "In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled.",
+          "release_date": "2018-12-21"
+      },
+      {
+          "vote_count": 280,
+          "id": 522681,
+          "video": false,
+          "vote_average": 6.1,
+          "title": "Escape Room",
+          "popularity": 76.523,
+          "poster_path": "/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg",
+          "original_language": "en",
+          "original_title": "Escape Room",
+          "genres": [
+              "Horror",
+              "Thriller",
+              "Action"
+          ],
+          "backdrop_path": "/mWLljCmpqlcYQh7uh51BBMwCZwN.jpg",
+          "adult": false,
+          "overview": "Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.",
+          "release_date": "2019-01-03"
+      },
+      {
+          "vote_count": 106,
+          "id": 505954,
+          "video": false,
+          "vote_average": 4.7,
+          "title": "T-34",
+          "popularity": 76.163,
+          "poster_path": "/wNJF8R5QE6nBT7DQoKk8t6YD1MM.jpg",
+          "original_language": "ru",
+          "original_title": "T-34",
+          "genres": [
+            "War",
+              "Drama",
+              "Adventure",
+              "Action"
+          ],
+          "backdrop_path": "/59qyrVGLLtrcuFtJGdixzn7H4OI.jpg",
+          "adult": false,
+          "overview": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+          "release_date": "2018-12-27"
+      },
+      {
+          "vote_count": 39,
+          "id": 449563,
+          "video": false,
+          "vote_average": 6.5,
+          "title": "Isn't It Romantic",
+          "popularity": 66.077,
+          "poster_path": "/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg",
+          "original_language": "en",
+          "original_title": "Isn't It Romantic",
+          "genres": [
+              "Comedy",
+              "Fantasy",
+              "Romance"
+          ],
+          "backdrop_path": "/8DRsq8rz0rZ25TIMomwHrLTA31Y.jpg",
+          "adult": false,
+          "overview": "For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.",
+          "release_date": "2019-02-13"
+      },
+      {
+          "vote_count": 37,
+          "id": 471507,
+          "video": false,
+          "vote_average": 6.7,
+          "title": "Destroyer",
+          "popularity": 64.296,
+          "poster_path": "/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
+          "original_language": "en",
+          "original_title": "Destroyer",
+          "genres": [
+              "Thriller",
+              "Crime",
+              "Drama",
+              "Action"
+          ],
+          "backdrop_path": "/n4eLeK2OdxRDqwIJtwYC212vmBF.jpg",
+          "adult": false,
+          "overview": "Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a gang in the California desert with tragic results. When the leader of that gang re-emerges many years later, she must work her way back through the remaining members and into her own history with them to finally reckon with the demons that destroyed her past.",
+          "release_date": "2018-12-25"
+      },
+      {
+          "vote_count": 695,
+          "id": 504172,
+          "video": false,
+          "vote_average": 6.5,
+          "title": "The Mule",
+          "popularity": 63.253,
+          "poster_path": "/t0idiLMalKMj2pLsvqHrOM4LPdQ.jpg",
+          "original_language": "en",
+          "original_title": "The Mule",
+          "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+          ],
+          "backdrop_path": "/wVhrbxbMmFfx05YNlqsQfu1gRS5.jpg",
+          "adult": false,
+          "overview": "Earl Stone, a man in his 80s who is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he’s just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+          "release_date": "2018-12-14"
+      },
+      {
+          "vote_count": 196,
+          "id": 280217,
+          "video": false,
+          "vote_average": 6.9,
+          "title": "The Lego Movie 2: The Second Part",
+          "popularity": 58.349,
+          "poster_path": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+          "original_language": "en",
+          "original_title": "The Lego Movie 2: The Second Part",
+          "genres": [
+              "Action",
+              "Adventure",
+              "Animation",
+              "Comedy",
+              "Family",
+              "Science Fiction",
+              "Fantasy"
+          ],
+          "backdrop_path": "/8kPozGb4BDrcWBSsGPrkULG2tP9.jpg",
+          "adult": false,
+          "overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.",
+          "release_date": "2019-01-26"
+      }
+  ]
+}
